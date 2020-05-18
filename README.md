@@ -1,4 +1,3 @@
 # paycomet
-paycomet
 
-# NUEVO GITHUB https://github.com/paycomet
+# Nos hemos movido a GITHUB https://github.com/paycomet
