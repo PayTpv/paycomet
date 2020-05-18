@@ -1,3 +1,1 @@
-# paycomet
-
-# Nos hemos movido a GITHUB https://github.com/paycomet
+## Nos hemos movido a: https://github.com/paycomet
